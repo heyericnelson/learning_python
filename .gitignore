@@ -1,0 +1,7 @@
+# no .txt, .doc, .docx files
+*.txt
+*.doc
+*.docx
+*.rb
+# ignore lpthw
+lpthw/
